@@ -29,7 +29,7 @@ Para dar más énfasis al objetivo principal se agregará un eslogan con letras 
 17.1 síntesis de información haciendo énfasis del objetivo y medios de contacto.
 
 
-![UX/UI](../images/imag.png)
+![UX/UI](images/imag.png)
 
 
 
@@ -42,4 +42,4 @@ Para dar más énfasis al objetivo principal se agregará un eslogan con letras 
 
 # sketch para la herramienta del dashboard de Laboratoria
 
-![UX/UI](../images/laboratoria.png)
+![UX/UI](images/laboratoria.png)
