@@ -37,7 +37,7 @@ Para dar más énfasis al objetivo principal se agregará un eslogan con letras 
 # Navegacion
 
 
-![UX/UI](../images/navegacion.png)
+![UX/UI](images/navegacion.png)
 
 
 # sketch para la herramienta del dashboard de Laboratoria
